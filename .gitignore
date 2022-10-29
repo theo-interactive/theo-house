@@ -26,8 +26,9 @@ debug.log
 yarn.lock
 /vpapp_new.iml
 
-/public/robots.txt
+.env
 .env.development
+.env.production
 
 # cypress
 cypress/videos
